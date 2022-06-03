@@ -1,0 +1,3 @@
+subscription_id = "azure_sub"
+vm_username = "admin"
+vm_pubkey = "public key"
